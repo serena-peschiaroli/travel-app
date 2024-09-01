@@ -1,3 +1,6 @@
 [submodule "travel-app-client"]
 	path = travel-app-client
 	url = https://github.com/serena-peschiaroli/travel-app-client.git
+[submodule "travel-app-server"]
+	path = travel-app-server
+	url = https://github.com/serena-peschiaroli/travel-app-server.git
